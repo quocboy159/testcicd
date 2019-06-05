@@ -11800,11 +11800,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learning\\Azure\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "D:\\Learning\\Azure\\WebApplication1\\testcicd\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "D:\\Learning\\Azure\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "D:\\Learning\\Azure\\WebApplication1\\testcicd\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\Learning\\Azure\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "D:\\Learning\\Azure\\WebApplication1\\testcicd\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
